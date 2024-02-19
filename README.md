@@ -4,6 +4,7 @@ Hello, I'm [Your Name], [a short description about yourself].
 
 ## 🚀 Skills
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - Programming Languages: [List of languages you are proficient in]
 - Frameworks and Libraries: [List of frameworks and libraries you use]
 - Other Technical Skills: [Other relevant technical skills]
