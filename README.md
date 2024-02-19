@@ -21,7 +21,7 @@ Hello, I'm [Your Name], [a short description about yourself].
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&count_private=true&hide=contribs,prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lsneal&show_icons=true&count_private=true&hide=contribs,prs)
 
 ## 🛠️ Tools and Technologies
 
