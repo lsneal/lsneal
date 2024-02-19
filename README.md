@@ -4,10 +4,11 @@ Hello, I'm [Your Name], [a short description about yourself].
 
 ## 🚀 Skills
 
-![Django](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=django&logoColor=white)
-- Programming Languages: [List of languages you are proficient in]
-- Frameworks and Libraries: [List of frameworks and libraries you use]
-- Other Technical Skills: [Other relevant technical skills]
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🌱 Recent Projects
 
